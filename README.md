@@ -1,2 +1,3 @@
-# UMIST_dataset_recognition_training
+CNN Implementation On MNIST Dataset
+
  
