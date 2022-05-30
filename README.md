@@ -7,7 +7,7 @@ images. This database is widely used for training and testing in the field of ma
 
 
 
-This project implements a CNN sequential model with an accuracy of 98.84% using Google Colaboratory P100 GPU with a running time of 84 seconds or 1 minute and 24 seconds
+This project implements a CNN sequential model with an accuracy of approxmately 98.94% using Google Colaboratory P100 GPU with a running time of 84 seconds or 1 minute and 24 seconds
 
 The KNN achieves an accuracy of 97.71% with a running time of 311 seconds or 5 minutes and 11 seconds. 
 
