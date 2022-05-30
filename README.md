@@ -1,4 +1,4 @@
-Tensorflow/Keras CNN and SKLearn SVM Implementation On MNIST Dataset
+**Tensorflow/Keras CNN and SKLearn SVM Implementation On MNIST Dataset**
 
 Data:
 The MNIST database (Modified National Institute of Standards and Technology database) is a large
